@@ -1,2 +1,2 @@
 # Kinoonik
-Projekt iz kolegija Programsko Inženjerstvo (2021)
+Projekt iz kolegija Programsko Inženjerstvo (2022)
